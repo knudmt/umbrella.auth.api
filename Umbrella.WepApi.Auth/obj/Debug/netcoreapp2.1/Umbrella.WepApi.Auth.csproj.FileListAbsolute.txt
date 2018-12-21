@@ -1,0 +1,13 @@
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/bin/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.deps.json
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/bin/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.runtimeconfig.json
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/bin/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.runtimeconfig.dev.json
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/bin/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.dll
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/bin/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.pdb
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.csproj.CoreCompileInputs.cache
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.RazorAssemblyInfo.cache
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.RazorAssemblyInfo.cs
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.AssemblyInfoInputs.cache
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.AssemblyInfo.cs
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.RazorTargetAssemblyInfo.cache
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.dll
+/Users/mknudsen/Projects/Umbrella.WepApi.Auth/Umbrella.WepApi.Auth/obj/Debug/netcoreapp2.1/Umbrella.WepApi.Auth.pdb
